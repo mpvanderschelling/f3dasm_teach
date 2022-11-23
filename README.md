@@ -17,7 +17,8 @@ The repository contains the following files
 1. Make sure you have installed the `F3DASM` package correctly. You can do that [here](https://bessagroup.github.io/F3DASM/gettingstarted.html)
 2. Clone this repository locally: `git clone https://github.com/mpvanderschelling/F3DASM_practical.git`
 3. Activate the `f3dasm_env` conda environment
-4. Navigate to the cloned repository and open the jupyter notebook
+4. Make sure you have jupyter notebook installed in your environment: `conda install -c conda-forge notebook`
+5. Navigate to the cloned repository and open the jupyter notebook
 
 ## Exercises
 

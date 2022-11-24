@@ -14,11 +14,17 @@ The repository contains the following files
 
 ## Getting started
 
-1. Make sure you have installed the `F3DASM` package correctly. You can do that [here](https://bessagroup.github.io/F3DASM/gettingstarted.html)
-2. Clone this repository locally: `git clone https://github.com/mpvanderschelling/F3DASM_practical.git`
-3. Activate the `f3dasm_env` conda environment
-4. Make sure you have jupyter notebook installed in your environment: `conda install -c conda-forge notebook`
-5. Navigate to the cloned repository and open the jupyter notebook
+### Google Colab
+
+Click on the button below to open the notebook in Google Colab
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/practical_session.ipynb)
+
+
+### Jupyter notebook locally
+1. Clone this repository locally: `git clone https://github.com/mpvanderschelling/F3DASM_practical.git`
+2. Make sure you have jupyter notebook installed in your environment: `pip install notebook`
+3. Navigate to the repository locally and open the jupyter notebook
 
 ## Exercises
 

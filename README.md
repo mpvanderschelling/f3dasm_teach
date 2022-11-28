@@ -1,6 +1,6 @@
 # F3DASM practical session
 
-This is a temporary repository for the practical session held on 31/10.
+This is a temporary repository for the practical session held on 31/10 and 30/11.
 
 ## Content
 
@@ -18,7 +18,11 @@ The repository contains the following files
 
 Click on the button below to open the notebook in Google Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/practical_session.ipynb)
+|          |               |
+|----------|:-------------:|
+| Practical session 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/practical_session.ipynb) |
+| Practical session 2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/session2/practical_session.ipynb) |
+
 
 
 ### Jupyter notebook locally

@@ -6,7 +6,7 @@ This is a temporary repository for the practical session held on 31/10 and 30/11
 
 The repository contains the following files
 
-* A Jupyter notebook containing the information and exercises
+* Jupyter notebooks containing the information and exercises
 * `.obj` files to check if the exercises are done correctly
 * This `README.md` file
 
@@ -18,10 +18,10 @@ The repository contains the following files
 
 Click on the button below to open the notebook in Google Colab
 
-|          |               |
-|----------|:-------------:|
-| Practical session 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/practical_session.ipynb) |
-| Practical session 2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/session2/practical_session.ipynb) |
+| Session  | Colab         | Solutions    |
+|:----------:|:-------------:|:-------------:|
+| Practical session 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/session1/practical_session.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/session1/practical_session_solutions.ipynb) |
+| Practical session 2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/session2/practical_session.ipynb) | _available later_ |
 
 
 

@@ -1,5 +1,8 @@
 practical_session_solutions.*
 
+# Include some answers
+!session1/practical_session_solutions.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

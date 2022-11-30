@@ -22,6 +22,7 @@ Click on the button below to open the notebook in Google Colab
 |:----------:|:-------------:|:-------------:|
 | Practical session 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/session1/practical_session.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/session1/practical_session_solutions.ipynb) |
 | Practical session 2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/session2/practical_session.ipynb) | _available later_ |
+| Practical session 3 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/session3/practical_session.ipynb) | _available later_ |
 
 
 

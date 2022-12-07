@@ -36,3 +36,9 @@ Click on the button below to open the notebook in Google Colab
 * During the session you will be asked to solve little exercises. 
 * You only have to write code in the cells which state `## YOUR CODE HERE ##`
 * After this block, there is an assert-block (starting with `## CHECK ##`) that checks if the results is correct!
+
+## 3dasm course
+
+| Session | Colab |
+|:-------:|:-----:|
+| Regression | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/3dasm/regression.ipynb) |

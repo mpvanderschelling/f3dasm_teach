@@ -1,6 +1,6 @@
 # F3DASM practical session
 
-This is a temporary repository for the practical session held on 31/10 and 30/11.
+This is a repository for practical sessions and tutorial on [`f3dasm`](https://github.com/bessagroup/F3DASM)
 
 ## Content
 
@@ -10,7 +10,7 @@ The repository contains the following files
 * `.obj` files to check if the exercises are done correctly
 * This `README.md` file
 
-> The solutions are not commited before the session and will be made public afterwards
+> The solutions of exercises are not released before the session and will be made public afterwards
 
 ## Getting started
 
@@ -42,3 +42,10 @@ Click on the button below to open the notebook in Google Colab
 | Session | Colab |
 |:-------:|:-----:|
 | Regression | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/3dasm/regression.ipynb) |
+
+
+## Code release week
+
+| Session | Colab |
+|:-------:|:-----:|
+| April 2023 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpvanderschelling/F3DASM_practical/blob/main/code+release+week/code_release_week.ipynb) |
